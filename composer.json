@@ -2,6 +2,7 @@
   "name": "php-md/php-md",
   "description": "PHP M.D.",
   "type": "library",
+  "keywords": ["markdown", "php-markdown", "php-md"],
   "license": "MIT",
   "authors": [
     {
