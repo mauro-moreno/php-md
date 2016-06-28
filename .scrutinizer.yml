@@ -2,8 +2,9 @@ checks:
     php:
         code_rating: true
         duplication: true
-        version: 5.6
 build:
+    php:
+        version: 5.6
     tests:
         override:
             -
